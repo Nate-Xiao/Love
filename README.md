@@ -1,4 +1,4 @@
-# Love-Yolanda
+# Love
 Just another repository
 
 Hello world!
